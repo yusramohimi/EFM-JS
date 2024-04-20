@@ -1,0 +1,6 @@
+{
+    "types":[
+        {"nom" : "cours courts" , "prix" : 0},
+        {"nom" : "Cours facturé" , "prix" : 300}
+    ]
+}
